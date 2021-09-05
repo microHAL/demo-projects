@@ -1,0 +1,4 @@
+[submodule "third-party/microhal"]
+	path = third-party/microhal
+	url = https://github.com/microHAL/microhal.git
+	branch = devel
